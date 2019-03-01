@@ -630,7 +630,7 @@ input[type="checkbox"]:checked ~ .header__nav {
     position: relative;
 }
 
-.preview__img-bg {
+.preview__img {
     display: block;
     width: 370px;
     height: 237px;
