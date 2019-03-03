@@ -104,8 +104,12 @@ footer {
     height: 100%;
 }
 
-.header__logo:hover .header__name {
-    color: #9a8776;
+.header__pic {
+  fill: white;
+}
+
+.header__logo:hover .header__pic {
+  fill: #9a8776;
 }
 
 .header__name {
@@ -113,6 +117,10 @@ footer {
     font-size: 26px;
     color: #fff;
     margin: auto;
+}
+
+.header__logo:hover .header__name {
+    color: #9a8776;
 }
 
 .header__nav {
