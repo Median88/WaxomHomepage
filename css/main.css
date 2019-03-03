@@ -104,6 +104,10 @@ footer {
     height: 100%;
 }
 
+.header__logo:hover .header__name {
+    color: #9a8776;
+}
+
 .header__name {
     font-family: Raleway, sans-serif;
     font-size: 26px;
